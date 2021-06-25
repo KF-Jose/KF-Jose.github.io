@@ -1,9 +1,10 @@
 ## Entropy Gains Nothing
-
+### Water Falls
 ![Image](res/bashbishfalls.jpg)
-Bash Bish Falls State Park, MA
+Bash Bish Falls, Bash Bish Falls State Park, MA
 
-
+![Image](res/yellowstonefalls.jpg)
+Undine Falls, Yellow Stone National Park, WY
 
 ### Markdown
 
