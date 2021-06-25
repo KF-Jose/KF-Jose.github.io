@@ -1,8 +1,9 @@
 ## Entropy Gains Nothing
 
-You can use the [editor on GitHub](https://github.com/KF-Jose/KF-Jose.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](res/bashbishfalls.jpg)
+Bash Bish Falls State Park, MA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
