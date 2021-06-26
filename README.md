@@ -6,6 +6,8 @@ Bash Bish Falls, Bash Bish Falls State Park, MA
 ![Image](res/yellowstonefalls.jpg)
 Undine Falls, Yellow Stone National Park, WY
 
+![Image](res/ruby.jpg)
+Ruby mountains, Humboldt–Toiyabe National Forest, Elko, NV
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
